@@ -14,3 +14,8 @@
 
 
 ## Idea NO. 3
+  Our third idea for a dataset is on global extreme poverty, using data first published in 2013 and revised in 2019. The research can include studies such as how geography or demography may affect poverty levels around the world, how price levels in different countries affect measure of poverty, cross-country puchasing power, and analyzing the poorest countries of the world. 
+
+  At a high level, this study will help us better understand the global economy and how larger and smaller powers come together to trade. It will also highlight how and why the inequal distribution of wealth occurs. More specifically, the study can help us understand how to mitigate the effects of global poverty, as the poorest people in the world are often left hungry, uneducated, and in poor health. 
+
+  Source: https://ourworldindata.org/extreme-poverty
