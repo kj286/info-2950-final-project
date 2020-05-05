@@ -13,13 +13,13 @@ Meet (virtually) with your group if you are collaborating (see Zoom guide). Writ
 # PHASE II: Initial data collection. Due May 5 (updated 04/27).
 - COMPLETED - TOGETHER: Settle on a single idea.
 - TOGETHER: Carry out most of your data collection.
-- KEVIN: Submit an executed Jupyter notebook (.ipynb) file on CMS where you identify any potential problems with your dataset.
+- COMPLETED - KEVIN: Submit an executed Jupyter notebook (.ipynb) file on CMS where you identify any potential problems with your dataset.
 - COMPLETED - KEVIN: Have an initial draft of introduction:
   - What is the context of the work? What research question are you trying to answer? What are your main findings?
-- BEBA & STELLA Have an initial draft of your data description section:
-  - STELLA: What are the observations (rows) and the attributes (columns)?
-  - STELLA: Why was this dataset created?
-  - STELLA: What processes might have influenced what data was observed and recorded and what was not?
-  - BEBA: What preprocessing was done, and how did the data come to be in the form that you are using?
-  - BEBA: If people are involved, were they aware of the data collection and if so, what purpose did they expect the data to be used for?
-  - BEBA: Where can your raw source data be found, if applicable? Provide a link to the raw data (hosted in a Cornell Google Drive or Cornell Box).
+- COMPLETED - BEBA & STELLA: Have an initial draft of your data description section:
+  - COMPLETED - STELLA: What are the observations (rows) and the attributes (columns)?
+  - COMPLETED - STELLA: Why was this dataset created?
+  - COMPLETED - STELLA: What processes might have influenced what data was observed and recorded and what was not?
+  - COMPLETED - BEBA: What preprocessing was done, and how did the data come to be in the form that you are using?
+  - COMPLETED - BEBA: If people are involved, were they aware of the data collection and if so, what purpose did they expect the data to be used for?
+  - COMPLETED - BEBA: Where can your raw source data be found, if applicable? Provide a link to the raw data (hosted in a Cornell Google Drive or Cornell Box).
