@@ -25,7 +25,7 @@ Meet (virtually) with your group if you are collaborating (see Zoom guide). Writ
   - COMPLETED - BEBA: Where can your raw source data be found, if applicable? Provide a link to the raw data (hosted in a Cornell Google Drive or Cornell Box).
 
 # PHASE III: Final Results. Due May 18th.
-- KEVIN: A dataset of moderate size and complexity: gather, organize, clean, and curate raw dataset (5/12)
+- COMPLETED: A dataset of moderate size and complexity: gather, organize, clean, and curate raw dataset (5/12)
 - COMPLETED: Introduction
 - COMPLETED: Data Description
 - STELLA & BEBA: Data Analysis:
