@@ -13,37 +13,39 @@ Meet (virtually) with your group if you are collaborating (see Zoom guide). Writ
 # PHASE II: Initial data collection. Due May 5 (updated 04/27).
 - COMPLETED - TOGETHER: Settle on a single idea.
 - TOGETHER: Carry out most of your data collection.
-- COMPLETED - KEVIN: Submit an executed Jupyter notebook (.ipynb) file on CMS where you identify any potential problems with your dataset.
-- COMPLETED - KEVIN: Have an initial draft of introduction:
+- COMPLETED: Submit an executed Jupyter notebook (.ipynb) file on CMS where you identify any potential problems with your dataset.
+- COMPLETED: Have an initial draft of introduction:
   - What is the context of the work? What research question are you trying to answer? What are your main findings?
-- COMPLETED - BEBA & STELLA: Have an initial draft of your data description section:
-  - COMPLETED - STELLA: What are the observations (rows) and the attributes (columns)?
-  - COMPLETED - STELLA: Why was this dataset created?
-  - COMPLETED - STELLA: What processes might have influenced what data was observed and recorded and what was not?
-  - COMPLETED - BEBA: What preprocessing was done, and how did the data come to be in the form that you are using?
-  - COMPLETED - BEBA: If people are involved, were they aware of the data collection and if so, what purpose did they expect the data to be used for?
-  - COMPLETED - BEBA: Where can your raw source data be found, if applicable? Provide a link to the raw data (hosted in a Cornell Google Drive or Cornell Box).
+- COMPLETED: Have an initial draft of your data description section:
+  - COMPLETED: What are the observations (rows) and the attributes (columns)?
+  - COMPLETED: Why was this dataset created?
+  - COMPLETED: What processes might have influenced what data was observed and recorded and what was not?
+  - COMPLETED: What preprocessing was done, and how did the data come to be in the form that you are using?
+  - COMPLETED: If people are involved, were they aware of the data collection and if so, what purpose did they expect the data to be used for?
+  - COMPLETED: Where can your raw source data be found, if applicable? Provide a link to the raw data (hosted in a Cornell Google Drive or Cornell Box).
 
 # PHASE III: Final Results. Due May 18th.
-- COMPLETED: A dataset of moderate size and complexity: gather, organize, clean, and curate raw dataset (5/12)
+- COMPLETED: A dataset of moderate size and complexity: gather, organize, clean, and curate raw dataset
 - COMPLETED: Introduction
 - COMPLETED: Data Description
 
 - STELLA & BEBA: Data Analysis:
-  - STELLA: Use summary functions like mean and standard deviation along with visual displays like scatter plots and histograms to describe data. (5/15)
-  - BEBA: Provide at least one model showing patterns or relationships between variables that addresses your research question. This could be a regression or clustering, or something else that measures some property of the dataset. (5/15)
+  - STELLA: Use summary functions like mean and standard deviation along with visual displays like scatter plots and histograms to describe data.
+  - COMPLETED: Provide at least one model showing patterns or relationships between variables that addresses your research question. This could be a regression or clustering, or something else that measures some property of the dataset.
 
-- KEVIN: Evaluation of significance:
-  - Use hypothesis tests, simulation, randomization, or any other techniques we have learned to compare the patterns you observe in the dataset to simple randomness. (5/16)
-    - chi-square test of independence for all attributes
+- COMPLETED: Evaluation of significance:
+  - Use hypothesis tests, simulation, randomization, or any other techniques we have learned to compare the patterns you observe in the dataset to simple randomness.
+    - chi-square test of independence for all categorical attributes
+    - one-way ANOVA test for numeric attribute "company size"
 
-- TOGETHER: Conclusion: (5/17)
+- TOGETHER: Conclusion:
   - STELLA: What did you find over the course of your data analysis?
-  - KEVIN: How confident are you in these conclusions?
+  - COMPLETED: How confident are you in these conclusions?
   - BEBA: Interpret these results in the wider context of the real-life application from where your data hails.
 
 - TOGETHER: Source Code: Provide a link to your Github repository (or other file hosting site) that has all of your project code (if applicable).
   - Each person codes on his/her own and then combine in the end
 
 - TOGETHER: Acknowledgments
-- TOGETHER: Submit an executed Jupyter notebook (.ipynb) file on CMS, with all of the required elements, as detailed in the deliverables section above. (5/18)
+
+- TOGETHER: Submit an executed Jupyter notebook (.ipynb) file on CMS, with all of the required elements, as detailed in the deliverables section above.
