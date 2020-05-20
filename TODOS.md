@@ -29,8 +29,8 @@ Meet (virtually) with your group if you are collaborating (see Zoom guide). Writ
 - COMPLETED: Introduction
 - COMPLETED: Data Description
 
-- STELLA & BEBA: Data Analysis:
-  - STELLA: Use summary functions like mean and standard deviation along with visual displays like scatter plots and histograms to describe data.
+- COMPLETED: Data Analysis:
+  - COMPLETED: Use summary functions like mean and standard deviation along with visual displays like scatter plots and histograms to describe data.
   - COMPLETED: Provide at least one model showing patterns or relationships between variables that addresses your research question. This could be a regression or clustering, or something else that measures some property of the dataset.
 
 - COMPLETED: Evaluation of significance:
@@ -38,14 +38,14 @@ Meet (virtually) with your group if you are collaborating (see Zoom guide). Writ
     - chi-square test of independence for all categorical attributes
     - one-way ANOVA test for numeric attribute "company size"
 
-- TOGETHER: Conclusion:
-  - STELLA: What did you find over the course of your data analysis?
+- COMPLETED: Conclusion:
+  - COMPLETED: What did you find over the course of your data analysis?
   - COMPLETED: How confident are you in these conclusions?
-  - BEBA: Interpret these results in the wider context of the real-life application from where your data hails.
+  - COMPLETED: Interpret these results in the wider context of the real-life application from where your data hails.
 
-- TOGETHER: Source Code: Provide a link to your Github repository (or other file hosting site) that has all of your project code (if applicable).
+- COMPLETED: Source Code: Provide a link to your Github repository (or other file hosting site) that has all of your project code (if applicable).
   - Each person codes on his/her own and then combine in the end
 
-- TOGETHER: Acknowledgments
+- COMPLETED: Acknowledgments
 
-- TOGETHER: Submit an executed Jupyter notebook (.ipynb) file on CMS, with all of the required elements, as detailed in the deliverables section above.
+- COMPLETED: Submit an executed Jupyter notebook (.ipynb) file on CMS, with all of the required elements, as detailed in the deliverables section above.
