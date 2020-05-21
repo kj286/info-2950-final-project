@@ -1,10 +1,11 @@
 # INFO 2950 Final Project
 ## Deliverable - Conclusion
 
-STELLA: What did you find over the course of your data analysis?
+In this study, we are trying to find factors that could influence the current status of internships during the pandemic. We want to find a regression model to better predict how industry affects internship status. Therefore, we used two indexes related to industry characteristics to create regression models. Between percentage increases for industries hiring the most college graduates in 2018 from the previous year and the amount of job losses because of new COVID-19 regulations, job loss index had a more significant R-square score and thus was a better regression model used to predict internship status.
 
-KEVIN: How confident are you in these conclusions?
-In general, we are confident with our data set and conclusions but also acknolwedge limitations on our data and subsequent regression and hypothesis tests analysis. While we tried our best to gather as much data as possible and eventually ended up with internship data on a little over 100 internships companies across 10 industries with a variety of positions, some categories lacked enough data entries to reach a 100% accurate conclusion.
+When evaluating the significance of each variable to internship status, we used chi-square test. As a result, using a 99% confidence level and 0.01 as the alpha value, we found that while company size, location, position have no correlation with internship status, factors like industry and pays demonstrate statistically significant correlation with internship status.
+
+In general, we are confident with our data set and conclusions but also acknowledge limitations on our data and subsequent regression and hypothesis tests analysis. While we tried our best to gather as much data as possible and eventually ended up with internship data on a little over 100 internships companies across 10 industries with a variety of positions, some categories lacked enough data entries to reach a 100% accurate conclusion.
 
 Nonetheless, with our regression model, which presented an r-squared value of 64%, and individual hypothesis tests run on 99% confidence level, we believe our findings contain meaningful insight into what affects current internship status.
 
